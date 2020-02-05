@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoalTracker</string>
+    <string name="Today">Today</string>
+    <string name="NewGoal">New Goal</string>
+    <string name="Title">Title</string>
+    <string name="Target">Target</string>
+</resources>
